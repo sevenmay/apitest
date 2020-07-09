@@ -1,0 +1,19 @@
+{
+  "p_disp": 5
+  "p_disp_20": 3
+  "p_disp_30": 0
+  "p_dordf": 0
+  "p_dordf_20": 3
+  "p_dordf_30": 10
+  "p_max_cons": 20200731
+  "p_max_cons_20": 20200729
+  "p_max_cons_30": 20200725
+  "p_non_imb": ""
+  "p_disp_noni_pd": 1
+  "p_disp_noni_bo": 2
+  "p_disp_noni_bs": 3
+  "p_giac_Tecn": 1
+  "p_Imp_Tecn": 0
+  "p_rtn": "00"
+  "p_mess": ""
+}
