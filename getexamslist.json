@@ -1,20 +1,20 @@
 {
-  "result": "true",
-  "error": "",
+  "result": true,
+  "error": 0,
   "message": "",
   "exams": [
     {
-      "id": "3",
+      "id": 3,
       "name": "Esame terra livello 2",
       "quests": ""
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Esame mare livello 1",
       "quests": ""
     },
     {
-      "id": "1",
+      "id": 1,
       "name": "Esame terra livello 1",
       "quests": ""
     }
