@@ -1,14 +1,17 @@
 {
   "result": true,
   "error": 0,
-  "message": "",
   "exam": {
-    "passed": true,
-    "vote_total": 30,
-    "vote_to_pass": 22,
-    "vote": 26,
-    "questions_total": 25,
-    "questions_correct": 22,
-    "percent_correct": 88
+    "passed": false,
+    "vote": 89,
+    "threshold": "80",
+    "questions_total": 49,
+    "questions_correct": 44,
+    "questions_answered": 47,
+    "time_taken": 300,
+    "time_total": 660,
+    "session": 4,
+    "sessions": 4,
+    "state": "completed"
   }
 }
