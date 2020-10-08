@@ -1,0 +1,14 @@
+{
+  "result": true,
+  "error": 0,
+  "message": "",
+  "exam": {
+    "passed": true,
+    "vote_total": 30,
+    "vote_to_pass": 22,
+    "vote": 26,
+    "questions_total": 25,
+    "questions_correct": 22,
+    "percent_correct": 88
+  }
+}
