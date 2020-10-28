@@ -1,5 +1,5 @@
 {
-  "result": true,
-  "error": 0,
-  "message": ""
+  "result": false,
+  "error": -4,
+  "message": "This is an error!"
 }
