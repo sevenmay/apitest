@@ -1,0 +1,46 @@
+{
+  "result": true,
+  "error": 0,
+  "exam": {
+    "passed": false,
+    "vote": 68,
+    "threshold": "70",
+    "questions_total": 50,
+    "questions_correct": 34,
+    "questions_answered": 45,
+    "time_taken": 300,
+    "time_total": 660,
+    "session": 3,
+    "sessions": 3,
+    "state": "completed",
+    "sessionList": [
+      {
+      "session": 0,
+      "passed": true,
+      "questions": 16,
+      "answered": 14,
+      "correct": 12,
+      "percent": 75,
+      "questionList": []
+      },
+      {
+        "session": 1,
+        "passed": true,
+        "questions": 20,
+        "answered": 17,
+        "correct": 15,
+        "percent": 75,
+        "questionList": []
+      },
+      {
+        "session": 2,
+        "passed": false,
+        "questions": 14,
+        "answered": 13,
+        "correct": 7,
+        "percent": 50,
+        "questionList": []
+      }
+    ]
+  }
+}
