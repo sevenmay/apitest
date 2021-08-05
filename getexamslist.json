@@ -4,8 +4,8 @@
   "message": "",
   "exams": [
     {
-      "id": 3,
-      "name": "Esame terra livello 2",
+      "id": 1,
+      "name": "Esame terra livello 1",
       "quests": ""
     },
     {
@@ -14,8 +14,23 @@
       "quests": ""
     },
     {
-      "id": 1,
-      "name": "Esame terra livello 1",
+      "id": 3,
+      "name": "Esame terra livello 2",
+      "quests": ""
+    },
+    {
+      "id": 4,
+      "name": "Recupero terra livello 1 - Sezione 1",
+      "quests": ""
+    },
+    {
+      "id": 5,
+      "name": "Recupero terra livello 1 - Sezione 2",
+      "quests": ""
+    },
+    {
+      "id": 6,
+      "name": "Recupero terra livello 1 - Sezione 3",
       "quests": ""
     }
   ]
