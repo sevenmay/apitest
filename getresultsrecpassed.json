@@ -1,0 +1,28 @@
+{
+  "result": true,
+  "error": 0,
+  "exam": {
+    "passed": true,
+    "vote": 88,
+    "threshold": "70",
+    "questions_total": 16,
+    "questions_correct": 14,
+    "questions_answered": 15,
+    "time_taken": 300,
+    "time_total": 660,
+    "session": 1,
+    "sessions": 1,
+    "state": "completed",
+    "sessionList": [
+      {
+      "session": 0,
+      "passed": true,
+      "questions": 16,
+      "answered": 15,
+      "correct": 14,
+      "percent": 88,
+      "questionList": []
+      }
+    ]
+  }
+}
