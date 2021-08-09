@@ -3,11 +3,11 @@
   "error": 0,
   "exam": {
     "passed": true,
-    "vote": 78,
+    "vote": 75,
     "threshold": "70",
-    "questions_total": 50,
-    "questions_correct": 39,
-    "questions_answered": 45,
+    "questions_total": 40,
+    "questions_correct": 30,
+    "questions_answered": 35,
     "time_taken": 300,
     "time_total": 660,
     "session": 3,
@@ -19,8 +19,9 @@
       "passed": true,
       "questions": 16,
       "answered": 14,
-      "correct": 12,
-      "percent": 75,
+      "correct": 13,
+      "percent": 81,
+      "weight": 20,
       "questionList": []
       },
       {
@@ -28,17 +29,19 @@
         "passed": true,
         "questions": 20,
         "answered": 17,
-        "correct": 15,
-        "percent": 75,
+        "correct": 14,
+        "percent": 70,
+        "weight": 20,
         "questionList": []
       },
       {
         "session": 2,
         "passed": true,
-        "questions": 14,
-        "answered": 13,
-        "correct": 12,
-        "percent": 86,
+        "questions": 4,
+        "answered": 4,
+        "correct": 3,
+        "percent": 75,
+        "weight": 60,
         "questionList": []
       }
     ]
