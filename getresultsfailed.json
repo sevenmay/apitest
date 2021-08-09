@@ -2,7 +2,7 @@
   "result": true,
   "error": 0,
   "exam": {
-    "passed": true,
+    "passed": false,
     "vote": 55,
     "threshold": "70",
     "questions_total": 40,
