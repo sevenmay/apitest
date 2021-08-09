@@ -3,11 +3,11 @@
   "error": 0,
   "exam": {
     "passed": true,
-    "vote": 88,
-    "threshold": "70",
-    "questions_total": 16,
-    "questions_correct": 14,
-    "questions_answered": 15,
+    "vote": 100,
+    "threshold": "65",
+    "questions_total": 4,
+    "questions_correct": 4,
+    "questions_answered": 4,
     "time_taken": 300,
     "time_total": 660,
     "session": 1,
@@ -17,10 +17,10 @@
       {
       "session": 0,
       "passed": true,
-      "questions": 16,
-      "answered": 15,
-      "correct": 14,
-      "percent": 88,
+      "questions": 4,
+      "answered": 4,
+      "correct": 4,
+      "percent": 100,
       "weight": 100,
       "questionList": []
       }
