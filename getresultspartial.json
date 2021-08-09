@@ -36,7 +36,7 @@
       },
       {
         "session": 2,
-        "passed": true,
+        "passed": false,
         "questions": 4,
         "answered": 4,
         "correct": 2,
