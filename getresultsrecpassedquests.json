@@ -1,0 +1,108 @@
+{
+  "result": true,
+  "error": 0,
+  "exam": {
+    "passed": true,
+    "vote": 100,
+    "threshold": "65",
+    "questions_total": 4,
+    "questions_correct": 4,
+    "questions_answered": 4,
+    "time_taken": 300,
+    "time_total": 660,
+    "session": 1,
+    "sessions": 1,
+    "state": "completed",
+    "sessionList": [
+      {
+        "session": 0,
+        "passed": true,
+        "questions": 4,
+        "answered": 4,
+        "correct": 4,
+        "percent": 100,
+        "weight": 100,
+        "questionList": [
+          {
+            "id": "205",
+            "text": "Data una forma d'onda sinusoidale si definisce valore efficace V<sub>eff<\/sub>:\r\n\r\n<img class=\"alignnone size-medium wp-image-1029\" src=\"https://www.apcert.it/wp-content/uploads/2021/04/lvl2-elettro13-300x232.jpg\" alt=\"\" width=\"300\" height=\"232\" />",
+            "answers": [
+              {
+                "text": "<katex>V_{eff} = \\sqrt{2} \\cdot  V_{m}<\/katex>",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "<katex>V_{eff} = \\frac{V_{M} \\cdot \\sqrt{2}}{2}<\/katex>",
+                "is_correct": "1",
+                "selected": true
+              },
+              {
+                "text": "<katex>V_{eff} = \\frac{V_{pp}}{\\sqrt{2}}<\/katex>",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "<katex>V_{eff} = V_{M} \\cdot I_{pp}<\/katex>",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "id": "203",
+            "text": "Una resistenza di valore 10 Ω presenta ai suoi capi una caduta di tensione di 20 V. La potenza assorbita dalla resistenza è:",
+            "answers": [
+              {
+                "text": "40 W",
+                "is_correct": "1",
+                "selected": false
+              },
+              {
+                "text": "200 W",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "20 W",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "40 V",
+                "is_correct": "0",
+                "selected": true
+              }
+            ]
+          },
+          {
+            "id": "196",
+            "text": "La condizione di squilibrio elettrico esistente ai capi dei morsetti di un qualunque componente di un circuito elettrico energizzato si manifesta come:",
+            "answers": [
+              {
+                "text": "differenza di potenziale",
+                "is_correct": "1",
+                "selected": true
+              },
+              {
+                "text": "campo elettrico alternato",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "forza elettromagnetica",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "potenziale istantaneo",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
