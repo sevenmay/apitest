@@ -1,49 +1,1456 @@
 {
-  "result": true,
-  "error": 0,
-  "exam": {
-    "passed": false,
-    "vote": 55,
-    "threshold": "70",
-    "questions_total": 40,
-    "questions_correct": 25,
-    "questions_answered": 35,
-    "time_taken": 300,
-    "time_total": 660,
-    "session": 3,
-    "sessions": 3,
-    "state": "completed",
-    "sessionList": [
-      {
-      "session": 0,
+   "result": true,
+   "error": 0,
+   "exam": {
       "passed": false,
-      "questions": 16,
-      "answered": 14,
-      "correct": 9,
-      "percent": 56,
-      "weight": 20,
-      "questionList": []
-      },
-      {
-        "session": 1,
-        "passed": true,
-        "questions": 20,
-        "answered": 17,
-        "correct": 14,
-        "percent": 70,
-        "weight": 20,
-        "questionList": []
-      },
-      {
-        "session": 2,
-        "passed": false,
-        "questions": 4,
-        "answered": 4,
-        "correct": 2,
-        "percent": 50,
-        "weight": 60,
-        "questionList": []
-      }
-    ]
-  }
+      "vote": 15,
+      "threshold": "70",
+      "questions_total": 54,
+      "questions_correct": 4,
+      "questions_answered": 14,
+      "time_taken": 33,
+      "time_total": 9600,
+      "sessions": 3,
+      "sections": 6,
+      "state": "completed",
+      "sessionList": [
+         {
+            "name": "Parte Generale",
+            "passed": false,
+            "questions": 30,
+            "answered": 10,
+            "correct": 3,
+            "percent": 10,
+            "weight": 20,
+            "questionList": [
+               {
+                  "id": "198",
+                  "text": "Si collegano in parallelo 4 resistenze uguali da 7,5 Ω. Che valore di resistenza equivalente si ottiene?",
+                  "answers": [
+                     {
+                        "text": "30 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "1,875 Ω ",
+                        "is_correct": "1",
+                        "selected": true
+                     },
+                     {
+                        "text": "2,5 Ω ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "1,512 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "201",
+                  "text": "In un circuito elettrico alimentato alla tensione di 50 V è presente un ramo costituito da due resistenze in parallelo del valore di 5 e 10 Ω. La resistenza equivalente del ramo in questione è di:",
+                  "answers": [
+                     {
+                        "text": "15 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "7,5 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "3,33 Ω",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "1 Ω",
+                        "is_correct": "0",
+                        "selected": true
+                     }
+                  ]
+               },
+               {
+                  "id": "213",
+                  "text": "Un trasformatore elettrico effettua una trasformazione della tensione e della corrente:",
+                  "answers": [
+                     {
+                        "text": "da continua in continua",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "da alternata in continua",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "da alternata in alternata",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "da continua in alternata",
+                        "is_correct": "0",
+                        "selected": true
+                     }
+                  ]
+               },
+               {
+                  "id": "200",
+                  "text": "Il valore della resistenza totale equivalente del circuito elettrico in figura è:\r\n\r\n<img class=\"alignnone size-medium wp-image-1028\" src=\"https://www.apcert.it/wp-content/uploads/2021/04/lvl2-elettro8-300x132.jpg\" alt=\"\" width=\"300\" height=\"132\" />",
+                  "answers": [
+                     {
+                        "text": "63 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "13 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "3,3 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "33 Ω",
+                        "is_correct": "1",
+                        "selected": true
+                     }
+                  ]
+               },
+               {
+                  "id": "195",
+                  "text": "Sono disponibili 4 resistori aventi i seguenti valori:\r\nR1 = 5 Ω\r\nR2 = 7,5 Ω\r\nR3 = 14 Ω\r\nR4 = 3,3 Ω\r\nCollegando in serie R2, R1 e R4 si ottiene il valore:",
+                  "answers": [
+                     {
+                        "text": "33,1 Ω",
+                        "is_correct": "0",
+                        "selected": true
+                     },
+                     {
+                        "text": "29,8 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "15,8 Ω",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "21,7 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "205",
+                  "text": "Data una forma d'onda sinusoidale si definisce valore efficace V<sub>eff<\/sub>:\r\n\r\n<img class=\"alignnone size-medium wp-image-1029\" src=\"https://www.apcert.it/wp-content/uploads/2021/04/lvl2-elettro13-300x232.jpg\" alt=\"\" width=\"300\" height=\"232\" />",
+                  "answers": [
+                     {
+                        "text": "<katex>V_{eff} = \\sqrt{2} \\cdot  V_{m}<\/katex>",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "<katex>V_{eff} = \\frac{V_{M} \\cdot \\sqrt{2}}{2}<\/katex>",
+                        "is_correct": "1",
+                        "selected": true
+                     },
+                     {
+                        "text": "<katex>V_{eff} = \\frac{V_{pp}}{\\sqrt{2}}<\/katex>",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "<katex>V_{eff} = V_{M} \\cdot I_{pp}<\/katex>",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "203",
+                  "text": "Una resistenza di valore 10 Ω presenta ai suoi capi una caduta di tensione di 20 V. La potenza assorbita dalla resistenza è:",
+                  "answers": [
+                     {
+                        "text": "40 W",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "200 W",
+                        "is_correct": "0",
+                        "selected": true
+                     },
+                     {
+                        "text": "20 W",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "40 V",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "218",
+                  "text": "Cosa si intende per dispositivo di protezione individuale (DPI):",
+                  "answers": [
+                     {
+                        "text": "gli indumenti di lavoro ordinario e le uniformi ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "presidio farmaceutico custodito dal lavoratore necessario per i primi soccorsi",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "qualsiasi attrezzatura destinata ad essere indossata e tenuta dal lavoratore per proteggerlo dai rischi suscettibili di minacciarne la sicurezza o la salute durante il lavoro",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "ogni apparecchio portatile custodito dal lavoratore per svolgere le attività previste",
+                        "is_correct": "0",
+                        "selected": true
+                     }
+                  ]
+               },
+               {
+                  "id": "227",
+                  "text": "Per legge il vostro superiore può imporvi l'uso dei dispositivi di protezione individuale (casco, calzature di sicurezza, ecc.):",
+                  "answers": [
+                     {
+                        "text": "si, solo per gli indumenti di lavoro ordinario",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "si, ma solo durante l’orario di lavoro",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "no, perché limita la libertà personale",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "no, poiché devono essere eseguiti tutti i provvedimenti per eliminare il rischio di infortunio",
+                        "is_correct": "0",
+                        "selected": true
+                     }
+                  ]
+               },
+               {
+                  "id": "237",
+                  "text": "In accordo con ISO 15257, un tecnico certificato di Livello 2 è:",
+                  "answers": [
+                     {
+                        "text": "CP technician ",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "CP specialist ",
+                        "is_correct": "0",
+                        "selected": true
+                     },
+                     {
+                        "text": "CP senior technician",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "CP data collector",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "235",
+                  "text": "Qual è la norma dedicata agli impianti di protezione catodica di strutture interrate?",
+                  "answers": [
+                     {
+                        "text": "UNI 11094",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "EN 15280",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "ISO 15589-1",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "ISO 18086",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "246",
+                  "text": "Qual è la norma dedicata agli impianti di protezione catodica di strutture interrate?",
+                  "answers": [
+                     {
+                        "text": "UNI 11094",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "EN 15280",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "ISO 15589-1",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "ISO 18086",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "243",
+                  "text": "L'organismo di normazione UNI è:",
+                  "answers": [
+                     {
+                        "text": "l’ente competente per il solo settore elettrico",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "l’ente competente per tutti i settori",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "l’ente competente per tutti i settori tranne quello elettrico",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "l’ente competente per il settore telecomunicazione",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "272",
+                  "text": "Nella corrosione per aerazione differenziale (<u><b>indicare la risposta errata<\/b><\/u>):",
+                  "answers": [
+                     {
+                        "text": "le zone appena interrate sono soggette ad un ricambio di ossigeno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "le zone più profonde sono soggette ad un limitato ricambio di ossigeno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la superficie catodica è quella in cui la disponibilità di ossigeno è più elevata",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la superficie anodica è quella in cui la disponibilità di ossigeno è più elevata",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "251",
+                  "text": "Per convenzione il verso della corrente elettrica è:",
+                  "answers": [
+                     {
+                        "text": "dal processo catodico al processo anodico nell’elettrolita",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "dal processo anodico al processo catodico nel metallo ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "dal processo catodico al processo anodico nel metallo",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "nella stessa direzione degli elettroni",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "257",
+                  "text": "La corrosione di un materiale metallico immerso in un ambiente aerato aumenta se:",
+                  "answers": [
+                     {
+                        "text": "si passa da condizioni turbolente a condizioni stagnanti",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "aumenta il tenore di ossigeno",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "diminuisce la quantità di ossigeno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "diminuisce la temperatura",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "263",
+                  "text": "La nobiltà pratica di un metallo è espressa dal suo:",
+                  "answers": [
+                     {
+                        "text": "potenziale di equilibrio del processo anodico",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "potenziale di equilibrio del processo catodico",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "potenziale di protezione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "potenziale di corrosione libera",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "274",
+                  "text": "Una struttura interrata subisce corrosione da correnti vaganti se:",
+                  "answers": [
+                     {
+                        "text": "la struttura è parallela ad un sistema di trazione ferroviaria",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "è in protezione catodica",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il terreno è ricco in solfati",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "è accoppiata con una messa a terra di rame",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "250",
+                  "text": "Il processo di corrosione avviene dove la corrente elettrica:",
+                  "answers": [
+                     {
+                        "text": "circola nell'ambiente",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "passa dal metallo all'ambiente",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "circola nel metallo",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "passa dall’ambiente al metallo",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "268",
+                  "text": "In un accoppiamento galvanico ferro-zinco nel terreno:",
+                  "answers": [
+                     {
+                        "text": "i due materiali hanno lo stesso potenziale",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il ferro si comporta da anodo e lo zinco da catodo",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il ferro si comporta da catodo e lo zinco da anodo",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "il ferro si corrode e lo zinco si passiva",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "249",
+                  "text": "La corrosione elettrochimica di un materiale metallico:",
+                  "answers": [
+                     {
+                        "text": "avviene solo a caldo",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "può avvenire anche a caldo",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "avviene in un elettrolita",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "avviene anche sotto vuoto",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "271",
+                  "text": "Le pustole di corrosione (forma di corrosione localizzata) sono fortemente dipendenti da:",
+                  "answers": [
+                     {
+                        "text": "umidità e pH del terreno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "resistività del terreno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "profondità di interramento della tubazione ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "cloruri e solfati del terreno",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "260",
+                  "text": "Considerando il potenziale di una tubazione interrata in acciaio al carbonio in assenza di protezione catodica <u><b>indicare l'affermazione ERRATA<\/b><\/u>:",
+                  "answers": [
+                     {
+                        "text": "-0.3 V CSE è il potenziale di un terreno fortemente aerato",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "-0.8 V CSE è il potenziale di un terreno deaerato",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "+0.1 V CSE è il potenziale di accoppiamento galvanico con un metallo nobile",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "+0.25 V CSE è il potenziale di accoppiamento galvanico con un metallo meno nobile",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "283",
+                  "text": "Per effettuare la protezione catodica si utilizza:",
+                  "answers": [
+                     {
+                        "text": "solo ed esclusivamente la corrente continua",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "solo ed esclusivamente la corrente alternata",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "normalmente la corrente continua, ma in caso di interferenze si applica anche la corrente alternata",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "normalmente la corrente alternata, ma in caso di interferenze si applica anche la corrente continua",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "296",
+                  "text": "Il potenziale di una tubazione in protezione catodica:",
+                  "answers": [
+                     {
+                        "text": "è minore del potenziale di libera corrosione",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "è uguale al potenziale di passività",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "è maggiore del potenziale di libera corrosione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "è uguale al potenziale OFF",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "293",
+                  "text": "Se una struttura in protezione catodica è interessata da un ingresso di corrente:",
+                  "answers": [
+                     {
+                        "text": "il potenziale aumenta laddove la corrente entra, ossia dove si ha corrosione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il potenziale diminuisce laddove la corrente entra, ossia dove si ha corrosione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il potenziale aumenta laddove la corrente esce, ossia dove si ha corrosione",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "il potenziale diminuisce laddove la corrente esce, ossia dove si ha corrosione",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "292",
+                  "text": "Quale di queste considerazioni va seguita nella scelta del sistema di protezione catodica (anodi galvanici o correnti impresse)?",
+                  "answers": [
+                     {
+                        "text": "gli anodi galvanici si usano preferibilmente in ambienti molto resistivi o in strutture molto estese",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "i sistemi a correnti impresse si usano preferibilmente in ambienti molto resistivi o in strutture molto estese",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "la scelta ricade sul sistema che permette di applicare una minore corrente di protezione, per evitare rischi di sovraprotezione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la scelta ricade sul sistema che fornisce il maggiore potenziale di protezione, per evitare rischi di sovraprotezione",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "282",
+                  "text": "Se portato al potenziale di protezione, il materiale da proteggere:",
+                  "answers": [
+                     {
+                        "text": "è sempre in condizioni di immunità",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "è sempre in condizioni di passività",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "può subire una corrosione residua, ma trascurabile (< 10 μm/anno)",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "può subire una corrosione residua, ma trascurabile (< 0,1 mm/anno)",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "287",
+                  "text": "In una condotta protetta catodicamente con un sistema a correnti impresse:",
+                  "answers": [
+                     {
+                        "text": "l'anodo è collegato al polo positivo del generatore, la condotta al polo negativo",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "l'anodo è collegato al polo negativo del generatore, la condotta al polo positivo",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "l'anodo e la condotta sono collegati direttamente tra loro",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il collegamento elettrico richiede l’inserimento di un diodo tra anodo e condotta",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "280",
+                  "text": "La protezione catodica agisce su una struttura in corrosione mediante un meccanismo",
+                  "answers": [
+                     {
+                        "text": "puramente chimico ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "puramente elettrochimico",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "puramente elettrico",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "di passivazione chimica",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Parte Specifica",
+            "passed": false,
+            "questions": 20,
+            "answered": 0,
+            "correct": 0,
+            "percent": 0,
+            "weight": 30,
+            "questionList": [
+               {
+                  "id": "306",
+                  "text": "La polvere di coke utilizzata come letto di posa nella costruzione dei dispersori",
+                  "answers": [
+                     {
+                        "text": "facilita la fuoruscita dei gas della reazione anodica",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "favorisce il consumo uniforme del dispersore",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "permette di diminuire la resistenza di terra del dispersore",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "tutte le precedenti",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "310",
+                  "text": "Gli anodi costituenti un dispersore verticale profondo sono di solito posti ad una profondità:",
+                  "answers": [
+                     {
+                        "text": "di 15 m",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "compresa tra 40 e 100 m",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "maggiore di 100 m",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "compresa tra 2 e 10 m",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "314",
+                  "text": "Qual è la massima tensione degli alimentatori utilizzati per la protezione catodica a correnti impresse?",
+                  "answers": [
+                     {
+                        "text": "50 V",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "20 V",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "non ci sono limiti",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "dipende dall’estensione della struttura da proteggere",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "299",
+                  "text": "In corrispondenza di impianti di protezione catodica e di posti di misura, qual è la corretta distanza, rispetto la struttura da proteggere, per collocare l'elettrodo di riferimento di tipo fisso:",
+                  "answers": [
+                     {
+                        "text": "qualsiasi distanza dalla struttura",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "minore di 0,5 m dalla struttura",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "maggiore di 0,8 m dalla struttura, se il terreno di posa è a media resistività",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "tra 0,5 e 0,8 m dalla struttura, se il terreno di posa è a bassa resistività",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "300",
+                  "text": "Il sistema di protezione catodica ad anodi galvanici è consigliabile quando:",
+                  "answers": [
+                     {
+                        "text": "la corrente di protezione richiesta è elevata",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la resistività del terreno è > 100 Ω m",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la resistività del backfill è superiore a 10 Ω m",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la corrente di protezione richiesta è bassa",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "321",
+                  "text": "Quale tra questi materiali <b><u>NON<\/u><\/b> è utilizzabile per la protezione catodica a corrente impressa ",
+                  "answers": [
+                     {
+                        "text": "titanio attivato",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "leghe Fe-Si",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "titanio platinato",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "lega di magnesio",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "309",
+                  "text": "Perché in una zona urbana si può utilizzare con vantaggio un dispersore verticale profondo?",
+                  "answers": [
+                     {
+                        "text": "per ridurre al minimo i rischi di interferenza su strutture estranee",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "per limitare l’erogazione di corrente dell’impianto di protezione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "per raggiungere strati di terreno la cui resistività sia abbastanza bassa",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "poiché è difficile trovare in superficie un terreno di dimensioni sufficienti all’installazione di un dispersore orizzontale",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "322",
+                  "text": "In un sistema di protezione catodica, l'impianto di drenaggio unidirezionale consente:",
+                  "answers": [
+                     {
+                        "text": "la circolazione nel terreno della corrente dispersa dalle linee di trazione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "di limitare gli effetti delle interferenze elettromagnetiche",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la circolazione della corrente interferente dalla struttura alla rotaia mediante un percorso metallico",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "la circolazione della corrente di protezione dalla rotaia alla struttura",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "334",
+                  "text": "Su una struttura estesa in lunghezza rivestita in polietilene e protetta catodicamente sono state installate delle sonde di potenziale con elettrodo di riferimento CSE saturo e piastrine in acciaio al carbonio.\r\nPer eseguire la misura registrata del potenziale ON e potenziale OFF delle piastrine dove deve essere collocato l'elettrodo di riferimento al CSE portatile:",
+                  "answers": [
+                     {
+                        "text": "ad una distanza dalla piastrina pari alla sua profondità",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "in posizione remota al di fuori del campo della corrente di protezione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "lateralmente ad almeno un metro dalla piastrina",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "sulla verticale della piastrina",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "326",
+                  "text": "Quale misura deve essere eseguita per verificare il corretto funzionamento di un alimentatore (<u><b>segnare la risposta errata<\/b><\/u>)?",
+                  "answers": [
+                     {
+                        "text": "tensione di uscita ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "corrente in uscita",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "potenziale di protezione",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "alimentazione dalla rete ",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "332",
+                  "text": "Il metodo Wenner consiste nel:",
+                  "answers": [
+                     {
+                        "text": "posizionare 4 picchetti allineati e misurare la corrente dispersa nel terreno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "posizionare 2 picchetti a distanze casuali e misurare la resistività del terreno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "posizionare 2 picchetti e misurare la resistività del terreno",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "posizionare 4 picchetti allineati e misurare la resistività del terreno",
+                        "is_correct": "1",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "329",
+                  "text": "La tecnica ON-OFF si applica per:",
+                  "answers": [
+                     {
+                        "text": "accertare l’erogazione del dispersore",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "verificare lo stato generale del rivestimento ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "misurare il potenziale di protezione ",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "misurare la corrente di protezione circolante ",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "346",
+                  "text": "Ponendo l'elettrodo di riferimento CSE sulla verticale di una struttura in protezione catodica con un sistema a correnti impresse, il valore del potenziale ON indicato sullo strumento di misura è di -500 mV. Quale di queste affermazioni è corretta?",
+                  "answers": [
+                     {
+                        "text": "la struttura è soggetta a interferenza",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "è possibile che la polarità del sistema di protezione catodica sia errata (struttura collegata al “+” del generatore) ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la struttura è sicuramente protetta",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "è possibile che la polarità del sistema di protezione catodica sia errata (struttura collegata al “-” del generatore) ",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "347",
+                  "text": "Se la lettura del potenziale di una struttura interrata interferita da corrente continua mostra valori più positivi rispetto al valore medio in assenza di interferenza:",
+                  "answers": [
+                     {
+                        "text": "la struttura è interferita in senso catodico",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la struttura è interferita in senso anodico",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "la struttura è in protezione catodica",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la struttura non scambia alcuna corrente con il terreno",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "343",
+                  "text": "In assenza di correnti disperse, considerando una tubazione in protezione catodica, allontanando l'elettrodo di riferimento di tipo portatile dalla struttura, il valore del potenziale letto sullo strumento di misura diviene:",
+                  "answers": [
+                     {
+                        "text": "più negativo",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "il procedimento non è idoneo ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "meno negativo",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il potenziale non può variare",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "339",
+                  "text": "Il valore del potenziale di protezione di una struttura di acciaio al carbonio posata in un terreno aerobico è:",
+                  "answers": [
+                     {
+                        "text": "-850 mV CSE",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "> -900 mV CSE",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "-0.95 mV CSE",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "circa -0.9 V CSE",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "355",
+                  "text": "L'apparecchio cercafalle d'isolamento denominato anche \"holiday detector\" ha la funzione di:",
+                  "answers": [
+                     {
+                        "text": "misurare lo spessore del rivestimento",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "individuare la resistenza di isolamento",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "individuare i difetti passanti nel rivestimento",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "identificare il materiale base del rivestimento",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "360",
+                  "text": "Tra i differenti rivestimenti per condotte qual è quello che NON ha adeguate caratteristiche in un ampio campo di sollecitazioni?",
+                  "answers": [
+                     {
+                        "text": "il polietilene triplo strato",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il bitume rinforzato con tessuto o velo di vetro",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "le resine epossidiche ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il polipropilene triplo strato",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "352",
+                  "text": "La protezione passiva consiste:",
+                  "answers": [
+                     {
+                        "text": "nell’applicare idonei rivestimenti isolanti su tutte le superfici metalliche della struttura da posare nel terreno",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "nel rendere catodica la superficie metallica della struttura interrata nei confronti dell’ambiente ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "nel rendere anodica la superficie metallica della struttura interrata nei confronti dell’ambiente",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "nel favorire il contatto della superficie metallica esterna della struttura nei confronti dell’ambiente",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "359",
+                  "text": "I materiali da NON utilizzare per il rivestimento di condotte interrate da proteggere catodicamente sono a base di:",
+                  "answers": [
+                     {
+                        "text": "composti ceramici",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "polietilene ",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "resine epossidiche bicomponente",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "prodotti bituminosi",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Parte Pratica",
+            "passed": false,
+            "questions": 4,
+            "answered": 4,
+            "correct": 1,
+            "percent": 25,
+            "weight": 50,
+            "questionList": [
+               {
+                  "id": "155",
+                  "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo portatile CSE\r\nB: elettrodo fisso CSE\r\nC: tubazione\r\n\r\nDopo aver misurato il valore di potenziale tra l'elettrodo portatile A e la tubazione C, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+                  "answers": [
+                     {
+                        "text": "la corrente interferente entra nella tubazione in corrispondenza del punto di misura",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la corrente interferente esce dalla tubazione in corrispondenza del punto di misura",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "posso misurare la corrente di interferenza in corrispondenza del punto di misura",
+                        "is_correct": "0",
+                        "selected": true
+                     },
+                     {
+                        "text": "siamo in presenza di un cortocircuito",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "152",
+                  "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo portatile CSE\r\nB: elettrodo fisso CSE\r\nC: tubazione\r\n\r\nSulla base dei valori di potenziale misurati tra l'elettrodo portatile A e la tubazione C, in presenza di possibili interferenze elettriche, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+                  "answers": [
+                     {
+                        "text": "la tubazione è protetta catodicamente",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la tubazione non è protetta catodicamente",
+                        "is_correct": "1",
+                        "selected": true
+                     },
+                     {
+                        "text": "la tubazione è in uno stato di libera corrosione",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "il cavo di collegamento è interrotto",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "165",
+                  "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo portatile CSE\r\nB: elettrodo fisso CSE\r\nC: tubazione\r\n\r\nSulla base dei valori di potenziale misurati tra l'elettrodo portatile A e la tubazione C, in assenza di interferenze elettriche, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+                  "answers": [
+                     {
+                        "text": "la tubazione è protetta catodicamente",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "la tubazione è in condizione catodica",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "la tubazione è in uno stato di libera corrosione",
+                        "is_correct": "0",
+                        "selected": true
+                     },
+                     {
+                        "text": "l’elettrodo fisso è da sostituire",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               },
+               {
+                  "id": "188",
+                  "text": "Considerando un punto di misura posto in corrispondenza di un giunto isolante monoblocco tra due sezioni di tubazione delle quali una sola è sottoposta a protezione catodica, la morsettiera del posto di misura è associata ai seguenti collegamenti:\r\nA: elettrodo di riferimento fisso CSE monte giunto\r\nB: tubazione monte giunto\r\nC: tubazione valle giunto\r\nD: elettrodo di riferimento fisso CSE valle giunto\r\n\r\nSulla base dei valori di resistenza misurati a monte (A-B) e valle (C-D) del giunto, e del valore di resistenza misurato a cavallo del giunto tra i collegamenti alla tubazione (B–C), in assenza di correnti di interferenza, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+                  "answers": [
+                     {
+                        "text": "Il giunto è in corto circuito; la resistenza del giunto isolante è nulla",
+                        "is_correct": "0",
+                        "selected": true
+                     },
+                     {
+                        "text": "Il giunto è funzionante; la resistenza del giunto isolante è > 25000 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     },
+                     {
+                        "text": "Il giunto è funzionante, ma non è possibile valutare con precisione la resistenza di un giunto isolante dopo l’installazione",
+                        "is_correct": "1",
+                        "selected": false
+                     },
+                     {
+                        "text": "Il giunto è funzionante; la resistenza del giunto isolante è > 15000 Ω",
+                        "is_correct": "0",
+                        "selected": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
 }

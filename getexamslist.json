@@ -1,42 +1,30 @@
 {
-  "result": true,
-  "error": 0,
-  "message": "",
-  "exams": [
-    {
-      "id": 1,
-      "name": "Esame terra livello 1",
-      "quests": ""
-    },
-    {
-      "id": 2,
-      "name": "Esame mare livello 1",
-      "quests": ""
-    },
-    {
-      "id": 3,
-      "name": "Esame terra livello 2",
-      "quests": ""
-    },
-    {
-      "id": 4,
-      "name": "Recupero terra livello 1 - Sezione 1",
-      "quests": ""
-    },
-    {
-      "id": 5,
-      "name": "Recupero terra livello 1 - Sezione 2",
-      "quests": ""
-    },
-    {
-      "id": 6,
-      "name": "Recupero terra livello 1 - Sezione 3",
-      "quests": ""
-    },
-    {
-      "id": 7,
-      "name": "Esame terra livello 3",
-      "quests": ""
-    }
-  ]
+   "result": true,
+   "exams": [
+      {
+         "id": 1,
+         "name": "Esame di certificazione - Terra livello 1",
+         "sessions": 3
+      },
+      {
+         "id": 2,
+         "name": "Esame di certificazione - Terra livello 2",
+         "sessions": 3
+      },
+      {
+         "id": 3,
+         "name": "Recupero - Terra livello 1 - Sezione 1",
+         "sessions": 1
+      },
+      {
+         "id": 4,
+         "name": "Recupero - Terra livello 1 - Sezione 2",
+         "sessions": 1
+      },
+      {
+         "id": 5,
+         "name": "Recupero - Terra livello 1 - Sezione 3",
+         "sessions": 1
+      }
+   ]
 }
