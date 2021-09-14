@@ -1,0 +1,30 @@
+{
+   "result": true,
+   "exams": [
+      {
+         "id": 1,
+         "name": "Esame di certificazione - Terra livello 1",
+         "sessions": 3
+      },
+      {
+         "id": 2,
+         "name": "Esame di certificazione - Terra livello 2",
+         "sessions": 3
+      },
+      {
+         "id": 3,
+         "name": "Recupero - Terra livello 1 - Sezione 1",
+         "sessions": 1
+      },
+      {
+         "id": 4,
+         "name": "Recupero - Terra livello 1 - Sezione 2",
+         "sessions": 1
+      },
+      {
+         "id": 5,
+         "name": "Recupero - Terra livello 1 - Sezione 3",
+         "sessions": 1
+      }
+   ]
+}
