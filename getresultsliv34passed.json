@@ -1,0 +1,171 @@
+{
+  "result": true,
+  "error": 0,
+  "exam": {
+    "passed": false,
+    "vote": 50,
+    "threshold": "70",
+    "questions_total": 36,
+    "questions_correct": 27,
+    "questions_answered": 31,
+    "time_taken": 300,
+    "time_total": 660,
+    "sessions": 3,
+    "sections": 6,
+    "state": "completed",
+    "sessionList": [
+      {
+        "name": "Parte Generale",
+        "passed": true,
+        "questions": 16,
+        "answered": 14,
+        "correct": 13,
+        "percent": 81,
+        "weight": 30,
+        "questionList": [
+          {
+            "id": "205",
+            "text": "Data una forma d'onda sinusoidale si definisce valore efficace V<sub>eff<\/sub>:\r\n\r\n<img class=\"alignnone size-medium wp-image-1029\" src=\"https://www.apcert.it/wp-content/uploads/2021/04/lvl2-elettro13-300x232.jpg\" alt=\"\" width=\"300\" height=\"232\" />",
+            "answers": [
+              {
+                "text": "<katex>V_{eff} = \\sqrt{2} \\cdot  V_{m}<\/katex>",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "<katex>V_{eff} = \\frac{V_{M} \\cdot \\sqrt{2}}{2}<\/katex>",
+                "is_correct": "1",
+                "selected": true
+              },
+              {
+                "text": "<katex>V_{eff} = \\frac{V_{pp}}{\\sqrt{2}}<\/katex>",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "<katex>V_{eff} = V_{M} \\cdot I_{pp}<\/katex>",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "id": "203",
+            "text": "Una resistenza di valore 10 Ω presenta ai suoi capi una caduta di tensione di 20 V. La potenza assorbita dalla resistenza è:",
+            "answers": [
+              {
+                "text": "40 W",
+                "is_correct": "1",
+                "selected": false
+              },
+              {
+                "text": "200 W",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "20 W",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "40 V",
+                "is_correct": "0",
+                "selected": true
+              }
+            ]
+          },
+          {
+            "id": "196",
+            "text": "La condizione di squilibrio elettrico esistente ai capi dei morsetti di un qualunque componente di un circuito elettrico energizzato si manifesta come:",
+            "answers": [
+              {
+                "text": "differenza di potenziale",
+                "is_correct": "1",
+                "selected": true
+              },
+              {
+                "text": "campo elettrico alternato",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "forza elettromagnetica",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "potenziale istantaneo",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Parte Specifica",
+        "passed": true,
+        "questions": 20,
+        "answered": 17,
+        "correct": 14,
+        "percent": 85,
+        "weight": 30,
+        "questionList": [
+          {
+            "id": "210",
+            "text": "Su una autovettura la cui batteria è da 12 V 80 Ah vengono dimenticate accese le luci di cortesia, consistenti in 3 lampade da 8 W ciascuna.\r\nIn quanto tempo si scaricherà la batteria, supponendo che all'inizio sia completamente carica? ",
+            "answers": [
+              {
+                "text": "in 24 ore",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "in più di una settimana",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "in 40 ore",
+                "is_correct": "1",
+                "selected": false
+              },
+              {
+                "text": "in meno di un giorno",
+                "is_correct": "0",
+                "selected": true
+              }
+            ]
+          },
+          {
+            "id": "206",
+            "text": "Un saldatore alimentato a 230 V e la cui resistenza è 120 Ω viene lasciato in funzione continuativamente per un giorno.\r\nL'energia consumata nella giornata risulta di:",
+            "answers": [
+              {
+                "text": "2,412 Wh",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "10,58 kWh",
+                "is_correct": "1",
+                "selected": true
+              },
+              {
+                "text": "2,412 kWh",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "1200 Wh",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
