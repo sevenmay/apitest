@@ -1,0 +1,1351 @@
+{
+  "result": true,
+  "error": 0,
+  "exam": {
+      "passed": false,
+      "vote": 2,
+      "threshold": "70",
+      "questions_total": 50,
+      "questions_correct": 1,
+      "questions_answered": 5,
+      "time_taken": 13,
+      "time_total": 7201,
+      "sessions": 1,
+      "sections": 3,
+      "state": "completed",
+      "sessionList": [
+          {
+              "name": "Parte Generale",
+              "passed": false,
+              "questions": 30,
+              "answered": 4,
+              "correct": 1,
+              "percent": 4,
+              "weight": 30,
+              "questionList": [
+                  {
+                      "id": "374",
+                      "text": "Su un tubo si rileva la presenza di corrente alternata.\r\nVolendo cercare di scaricarla verso terra per mezzo di un opportuno dispersore, quale combinazione dei seguenti componenti è meglio usare?",
+                      "answers": [
+                          {
+                              "text": "una cella di polarizzazione",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "una cella di polarizzazione in serie a uno scaricatore",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "uno scaricatore in parallelo a un varistore",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "uno scaricatore di tensione adeguata",
+                              "is_correct": "0",
+                              "selected": true
+                          }
+                      ]
+                  },
+                  {
+                      "id": "368",
+                      "text": "Quali sono le unità di misura della reattanza capacitiva e della reattanza induttiva?",
+                      "answers": [
+                          {
+                              "text": "Nel primo caso Ω e nel secondo caso Ω<sup>-1</sup>",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "Nel primo caso Ω<sup>-1</sup> e nel secondo caso Ω",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "In entrambi i casi Ω<sup>-1</sup>",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "In entrambi i casi Ω",
+                              "is_correct": "1",
+                              "selected": true
+                          }
+                      ]
+                  },
+                  {
+                      "id": "376",
+                      "text": "Nel circuito sottostante, il voltmetro indica una tensione di 10,2V, l'amperometro un corrente di 2A e la resistenza R è uguale a 5Ω.\r\nLa resistenza interna dell'amperometro è di:\r\n<img src=\"https://www.apcert.it/wp-content/uploads/2021/10/D9_L3_T.jpg\" alt=\"\" width=\"274\" height=\"104\" class=\"alignnone size-full wp-image-1072\" />",
+                      "answers": [
+                          {
+                              "text": "1 Ω",
+                              "is_correct": "0",
+                              "selected": true
+                          },
+                          {
+                              "text": "0,001 Ω",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "0,1 Ω",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "0,5 Ω",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "386",
+                      "text": "Le disposizioni legislative consentono l'esecuzione di lavori sotto tensione:",
+                      "answers": [
+                          {
+                              "text": "in nessun caso",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "per valori di tensione di sicurezza",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "per qualsiasi valore di tensione se eseguiti da personale idoneo ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "solo per valori di tensione maggiore di 1000 V in corrente alternata",
+                              "is_correct": "0",
+                              "selected": true
+                          }
+                      ]
+                  },
+                  {
+                      "id": "385",
+                      "text": "Nei lavori in luoghi molto umidi gli utensili portatili devono essere alimentati:",
+                      "answers": [
+                          {
+                              "text": "a tensione maggiore di 50V verso terra",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "a tensione minore di 50V verso terra",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "a tensione di rete del distributore pubblico",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "a tensione anche maggiore di 220V verso terra",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "393",
+                      "text": "La persona certificata può fare valere la propria certificazione in un settore di applicazione diverso da quello per il quale è stato certificato:",
+                      "answers": [
+                          {
+                              "text": "si, quando svolge, nelle condizioni precisate dalla norma, i lavori che provano il grado di competenza maggiore nel nuovo settore di applicazione",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "no, mai",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "si, se il suo datore di lavoro attesta che è qualificato nel nuovo settore, avendo operato per più di 1 anno in conformità alla norma ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "no, salvo che abbia la certificazione di livello superiore in un settore differente da quello in cui vuole fare valere i propri diritti",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "390",
+                      "text": "I docenti di un corso di formazione possono essere gli esaminatori per un candidato durante l'esame di certificazione",
+                      "answers": [
+                          {
+                              "text": "si, se hanno una certificazione di Livello 4",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "si, se hanno fatto meno di 4h di lezione",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "no mai",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "si, se hanno una certificazione di livello superiore all'esame in corso",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "403",
+                      "text": "Nel campo normativo una norma tecnica armonizzata è un documento:",
+                      "answers": [
+                          {
+                              "text": "elaborato ed approvato dal solo organismo di normazione europeo e redatto in lingua francese",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "elaborato a livello europeo, approvato da almeno tre organismi di normazione europei, recepito dagli Stati comunitari e redatto in lingua inglese",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "elaborato ed approvato dall’organismo di normazione di ogni Paese europeo e redatto nella rispettiva lingua",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "elaborato a livello europeo, approvato dagli organismi di normazione dei Paesi europei, recepito dagli Stati comunitari e con identici contenuti redatto nella rispettiva lingua",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "410",
+                      "text": "La scelta e la localizzazione dei posti di misura deve essere fatta in accordo con:",
+                      "answers": [
+                          {
+                              "text": "UNI 11094",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "EN 15280",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "ISO 18086",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "ISO 15589-1",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "409",
+                      "text": "La norma ISO 18086 è relativa a",
+                      "answers": [
+                          {
+                              "text": "protezione catodica di opere in calcestruzzo armato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "protezione catodica di strutture interrate e immerse",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "interferenza elettrica da corrente continua",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "interferenza elettrica da corrente alternata",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "400",
+                      "text": "Nel campo normativo, l'impiego delle norme tecniche:",
+                      "answers": [
+                          {
+                              "text": "è obbligatorio ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "è richiesto solo per casi particolari ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "è volontario",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "è volontario per prodotti e servizi destinati all’estero",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "408",
+                      "text": "La norma EN 50162 è relativa a",
+                      "answers": [
+                          {
+                              "text": "protezione catodica di opere in calcestruzzo armato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "protezione catodica di strutture interrate e immerse",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "interferenza elettrica da corrente continua",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "interferenza elettrica da corrente alternata",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "402",
+                      "text": "Le regole tecniche che definiscono le caratteristiche e/o i requisiti tecnici di prodotti, processi o servizi, contenute o citate in atti emanati da un'autorità avente potere legislativo o regolamentare:",
+                      "answers": [
+                          {
+                              "text": "sono da osservare in modo obbligatorio",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "sono da osservare in casi particolari",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "sono da osservare in modo volontario",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "sono da osservare solo in una definita area geografica ",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "442",
+                      "text": "La corrosione per pitting degli acciai inossidabili avviene perché:",
+                      "answers": [
+                          {
+                              "text": "il film di passività è localmente distrutto da correnti parassite",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "si passiva solo una piccola area con diffusione sottostante",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "il cromo e il nichel sono più nobili del ferro",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "il film di passività è localmente distrutto dagli ioni cloruro",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "411",
+                      "text": "La corrosione è un processo elettrochimico costituito da:",
+                      "answers": [
+                          {
+                              "text": "4 processi parziali in serie",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "4 processi parziali in parallelo ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "due processi anodici e catodici",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "due processi di circolazione della corrente ionica e elettronica",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "426",
+                      "text": "La densità di corrente limite di ossigeno si misura in:",
+                      "answers": [
+                          {
+                              "text": "micron/anno (µm/anno)",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "milliAmpere/metro quadrato (mA/m<sup>2</sup>)",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "milliAmpere/anno (mA/anno)",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "milliVolt/metro quadrato (mV/m<sup>2</sup>)",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "415",
+                      "text": "Il potenziale di equilibrio:",
+                      "answers": [
+                          {
+                              "text": "è associabile sia alla reazione anodica che alla reazione catodica",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "è dipendente dal potenziale di equilibrio in condizioni standard",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "è dipendente dalla concentrazione degli ioni in soluzione",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "tutte le risposte precedenti",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "418",
+                      "text": "I diagrammi di Pourbaix:",
+                      "answers": [
+                          {
+                              "text": "mostrano la formazione di complessi del metallo",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "mettono in evidenza l’azione dei cloruri",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "mostrano le condizioni di immunità di un metallo",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "riportano le velocità di corrosione",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "462",
+                      "text": "Per prevenire i fenomeni corrosivi dovuti all'interferenza è possibile (<b>indicare la risposta errata</b>):",
+                      "answers": [
+                          {
+                              "text": "utilizzare la protezione catodica",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "sezionare la linea mediante giunti isolanti",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "effettuare un drenaggio",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "eliminare il rivestimento presente sulla tubazione",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "437",
+                      "text": "La misura di resistività di un terreno mediante soil box:",
+                      "answers": [
+                          {
+                              "text": "sfrutta 4 elettrodi equidistanziati fra loro",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "permette di rilevare il contenuto di cloruri e solfati nel terreno",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "si basa sulla misura di potenziale tra due elettrodi situati su facce opposte di una scatola contenente il terreno ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "si basa sulla misurazione della resistenza tra due elettrodi situati su facce opposte di una scatola contenente il terreno ",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "436",
+                      "text": "La misura di resistività di un terreno è eseguita mediante:",
+                      "answers": [
+                          {
+                              "text": "misura del potenziale di libera corrosione",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "misura del potenziale ON",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "metodo Wenner o dei 4 picchetti",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "nessuna delle precedenti",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "414",
+                      "text": "NON è una reazione catodica:",
+                      "answers": [
+                          {
+                              "text": "riduzione di ossigeno",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "riduzione di idrogeno",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "riduzione di cloro",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "sviluppo di idrogeno",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "434",
+                      "text": "Per una condotta nuova di acciaio interrata in terreno sabbioso, la velocità di corrosione:",
+                      "answers": [
+                          {
+                              "text": "aumenta con l’apporto di ossigeno",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "diminuisce con l’apporto di ossigeno",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "non dipende dall’ossigeno",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "è identica al caso di tubazione interrata in terreno argilloso",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "457",
+                      "text": "Nelle strutture interrate in libera corrosione, il criterio dei 20mV indica:",
+                      "answers": [
+                          {
+                              "text": "la massima polarizzazione anodica ammissibile",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "la massima polarizzazione catodica ammissibile",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la minima polarizzazione anodica ammissibile",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la minima polarizzazione catodica ammissibile",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "474",
+                      "text": "Quale di queste considerazioni NON va seguita nella scelta del sistema di protezione catodica (anodi galvanici o correnti impresse)?",
+                      "answers": [
+                          {
+                              "text": "gli anodi galvanici sono indicati per strutture piccole (serbatoi, condotte di pochi chilometri)",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "i sistemi a correnti impresse sono indicati per strutture di grandi dimensioni",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "gli anodi galvanici sono indicati in assenza di disponibilità di potenza elettrica",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "i sistemi a correnti impresse sono usati per protezioni temporanee",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "476",
+                      "text": "La corrente necessaria alla protezione catodica di una struttura:",
+                      "answers": [
+                          {
+                              "text": "dipende dalla superficie di metallo accessibile all’elettrolita e dal suo potenziale",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "ha un valore costante, indipendentemente dal metallo, dal suo rivestimento e dall’elettrolita",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "dipende dal generatore utilizzato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "dipende dal metodo di protezione utilizzato (ad anodi galvanici o a correnti impresse)",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "468",
+                      "text": "Durante la protezione catodica, secondo il diagramma di Evans:",
+                      "answers": [
+                          {
+                              "text": "la corrente scambiata dal metallo con l’ambiente scende sotto al valore soglia di 100 mA/m<sup>2</sup>",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la corrente scambiata dal metallo con l’ambiente scende di circa un ordine di grandezza sotto al valore soglia i<sub>0</sub>, che corrisponde al potenziale di equilibrio del metallo",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la corrente scambiata dal metallo con l’ambiente scende di circa 100 volte per ogni 100 mV di diminuzione del potenziale",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la corrente scambiata dal metallo con l’ambiente scende di circa 10 volte per ogni 100 mV di diminuzione del potenziale",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "464",
+                      "text": "La protezione catodica causa modifiche all'ambiente circostante l'anodo?",
+                      "answers": [
+                          {
+                              "text": "no",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "sì, causa un aumento di pH",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "sì, causa una diminuzione di pH",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "sì, ne aumenta l’umidità",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "470",
+                      "text": "A cosa corrisponde, sul diagramma di Evans, il valore di potenziale di protezione di una struttura a comportamento passivo?",
+                      "answers": [
+                          {
+                              "text": "al valore di potenziale per cui la velocità di corrosione scende sotto ai 10 μm/anno",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "ad un valore di potenziale contenuto nel range di passività perfetta",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "al valore di potenziale per cui la velocità di corrosione si annulla",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "al valore di potenziale di corrosione libera diminuito di 100 mV",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "469",
+                      "text": "A cosa corrisponde, sul diagramma di Evans, il potenziale di protezione di una struttura a comportamento attivo?",
+                      "answers": [
+                          {
+                              "text": "al valore di potenziale per cui la velocità di corrosione scende sotto ai 10 μm/anno",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "al valore di potenziale per cui la velocità di corrosione scende sotto a 1 μm/anno",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "al valore di potenziale per cui la velocità di corrosione si annulla",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "al valore di potenziale di corrosione libera diminuito di 100 mV",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "name": "Parte Specifica",
+              "passed": false,
+              "questions": 20,
+              "answered": 1,
+              "correct": 0,
+              "percent": 0,
+              "weight": 30,
+              "questionList": [
+                  {
+                      "id": "487",
+                      "text": "La misura di resistività secondo il metodo di Wenner è eseguita:",
+                      "answers": [
+                          {
+                              "text": "imponendo una corrente tra gli elettrodi interni e misurando la caduta di tensione tra gli elettrodi esterni ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "imponendo una corrente tra gli elettrodi esterni e misurando la caduta di tensione tra gli elettrodi interni",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "misurando la caduta di tensione tra una coppia di elettrodi ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "imponendo corrente e tensione gli elettrodi interni",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "490",
+                      "text": "La stima della resistenza di isolamento può essere effettuata mediante ",
+                      "answers": [
+                          {
+                              "text": "misura del potenziale di corrosione libera della tubazione ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "erogazione di una corrente sufficiente a proteggere un tratto isolato di tubazione e misura della differenza tra i potenziali ON e OFF",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "misura della resistività con il metodo Schlumberger",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "misura del potenziale redox",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "504",
+                      "text": "In un alimentatore automatico a potenziale costante con corrente di base, qual è la funzione della corrente di base?",
+                      "answers": [
+                          {
+                              "text": "erogare in qualsiasi condizione del potenziale di struttura un valore di corrente minimo prefissato",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "mantenere il potenziale di struttura ad un valore minimo prefissato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "variare la corrente minima prefissata nell’intervallo di variazione del potenziale di struttura",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "impostare il valore massimo della corrente da erogare",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "502",
+                      "text": "Quando si impiega un alimentatore automatico a potenziale costante:",
+                      "answers": [
+                          {
+                              "text": "il potenziale è costante lungo la condotta al valore prefissato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "occorre installare un elettrodo di riferimento permanente per pilotare l’apparecchiatura",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "il dispositivo di controllo e regolazione confronta il valore della corrente prefissato ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "il terreno non è influenzato da campi elettrici",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "505",
+                      "text": "In un sistema di protezione catodica di strutture metalliche interrate estese in lunghezza ed a rete, l'alimentatore automatico a corrente costante consente di:",
+                      "answers": [
+                          {
+                              "text": "mantenere costante nel tempo il potenziale di struttura prefissato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "mantenere costante nel tempo la corrente erogata ad un valore prefissato",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "variare l’erogazione di corrente in funzione del potenziale di struttura prefissato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "controllare le variazioni delle correnti disperse erogando nel tempo e con continuità la corrente di base",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "498",
+                      "text": "In un impianto di protezione catodica a correnti impresse, se si utilizza un anodo inerte (es. titanio attivato) qual è la reazione anodica prevista?",
+                      "answers": [
+                          {
+                              "text": "dissoluzione del titanio: Ti → Ti<sup>4+</sup> + 4e<sub>-</sub>",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "dissoluzione del ferro: Fe → Fe<sup>2+</sup> + 2e<sup>-</sup>",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "riduzione dell’ossigeno: O<sub>2</sub> + H<sub>2</sub>O + 4e<sup>-</sup> → 4OH<sup>-</sup>",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "sviluppo di ossigeno: 4OH<sup>-</sup> → O<sub>2</sub> + H<sub>2</sub>O + 4e<sup>-</sup>",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "515",
+                      "text": "Per assicurare nel tempo l'efficacia della protezione catodica di una struttura metallica protetta con anodi di magnesio è necessario che nelle specifiche tecniche sia indicata e verificata la composizione chimica della lega e le impurezze come:",
+                      "answers": [
+                          {
+                              "text": "manganese e alluminio",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "ferro e rame",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "le impurezze non hanno effetti negativi ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "zinco",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "517",
+                      "text": "Il backfill ha lo scopo di (<b>segnare la risposta errata</b>):",
+                      "answers": [
+                          {
+                              "text": "ridurre il rischio di passivazione",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "aumentare la resistenza verso terra",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "mantenere costante la corrente erogata",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "rendere uniforme il consumo dell’anodo",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "510",
+                      "text": "Con il termine “consumo pratico” di un anodo galvanico si intende:",
+                      "answers": [
+                          {
+                              "text": "massa che passa in soluzione per unità di corrente",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "massa che passa in soluzione per unità di tempo",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "massa che passa in soluzione per unità di potenziale",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "massa che passa in soluzione per unità di carica",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "528",
+                      "text": "Nel progettare un sistema di protezione catodica ad anodi galvanici, bisogna determinare il numero minimo di anodi che soddisfino i requisiti di (i) distribuzione di corrente uniforme, (ii) richiesta di corrente complessiva della struttura e (iii) durata del sistema anodico. Dei tre valori calcolati si sceglie:",
+                      "answers": [
+                          {
+                              "text": "sempre il più alto",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "sempre il più basso",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la media dei tre",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "il più basso in terreni conduttivi, il più alto in terreni resistivi",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "524",
+                      "text": "La spaziatura anodica:",
+                      "answers": [
+                          {
+                              "text": "dipende dal materiale anodico",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "concorre a determinare il numero di anodi necessari alla protezione solo in terreni a bassa resistività",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "dipende dalla lunghezza della struttura da proteggere",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "non serve a determinare il numero di anodi necessario alla protezione ",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "527",
+                      "text": "Il consumo pratico di un anodo si misura in:",
+                      "answers": [
+                          {
+                              "text": "kg/anno",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "kg/A⋅anno",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "V/kg",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "kg/A",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "548",
+                      "text": "In accordo con ISO 15589-1, la periodicità di ispezioni di un sistema di protezione catodica a corrente impressa è:",
+                      "answers": [
+                          {
+                              "text": "da 1 a 5 anni",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "da 5 a 10 anni",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "da 1 a 3 anni",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "annuale",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "547",
+                      "text": "In accordo con ISO 15589-1, la distanza tra due posti di misura è:",
+                      "answers": [
+                          {
+                              "text": "3 km in aree urbane",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "1 km in aree rurali",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "3 km in aree rurali",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "2 km in ogni condizione ambientale",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "559",
+                      "text": "All'avvio di un impianto di protezione catodica a corrente impressa, la corrente di protezione deve essere impostata:",
+                      "answers": [
+                          {
+                              "text": "al valore massimo indicato nel documento di progetto",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "al doppio del valore di progetto",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "ad un valore inferiore al dato di progetto",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "ad almeno 10mA",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "553",
+                      "text": "La struttura estesa in lunghezza delimitata dai giunti isolanti A e B, è rivestita in bitume ed interferita da campi elettrici variabili in intensità e senso.\r\nIl progetto del sistema di protezione catodica ha previsto l'installazione di due alimentatori automatici a potenziale costante con corrente di base installati nei punti A e B. Nel corso delle misurazioni di collaudo si è evidenziato che nei periodi di interferenza in alcuni posti di misura lungo la linea il potenziale ON assume valori di -0,7 V CSE.\r\n\r\nSu quale parametro di funzionamento degli alimentatori automatici si deve intervenire per riportare il valore del potenziale ON entro limiti di sicurezza più accettabili:\r\n<img src=\"https://www.apcert.it/wp-content/uploads/2021/10/collaudo_img5-300x67.jpg\" alt=\"\" width=\"300\" height=\"67\" class=\"alignnone size-medium wp-image-1073\" />",
+                      "answers": [
+                          {
+                              "text": "aumentare la tensione in uscita degli alimentatori A e B",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "aumentare il valore della corrente di base sugli alimentatori A e B",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "regolare su valori più negativi il potenziale on di riferimento sull’alimentatore A",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "regolare su valori più negativi il potenziale on di riferimento sull’alimentatore B",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "560",
+                      "text": "Dopo l'avvio di un impianto di protezione catodica ad anodi galvanici, si deve eseguire (<b>segnare la risposta errata</b>):",
+                      "answers": [
+                          {
+                              "text": "la misura di corrente su tutti gli anodi",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la misura di corrente solo sugli anodi agli estremi del sistema ",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "la misura di potenziale ON nei posti di misura in prossimità degli anodi",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la regolazione di corrente degli anodi se attrezzati con resistenza variabile",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "556",
+                      "text": "La messa in servizio degli impianti di protezione catodica richiede (<b>segnare la riposta errata</b>)",
+                      "answers": [
+                          {
+                              "text": "l’avvio del sistema di protezione",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "una prova preliminare per verificare che l’impianto sia correttamente installato",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "la verifica dell’efficacia del sistema di protezione ",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "l’esecuzione di misure di potenziale ON-OFF ai punti caratteristici",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "565",
+                      "text": "A seguito della prova di continuità d'isolamento su una struttura metallica rivestita in polietilene sono state riscontrate delle falle nel rivestimento.\r\nPer gli interventi di riparazione quali sono i materiali da utilizzare:",
+                      "answers": [
+                          {
+                              "text": "primer e nastro di polietilene per protezione meccanica",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "resina termoindurente monocomponente",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "materiale bituminoso fuso",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "mastice adesivo più pezza di riparazione in polietilene da applicare a caldo",
+                              "is_correct": "1",
+                              "selected": false
+                          }
+                      ]
+                  },
+                  {
+                      "id": "571",
+                      "text": "Una specifica di monitoraggio di un sistema di protezione catodica a corrente impressa deve includere:",
+                      "answers": [
+                          {
+                              "text": "normative di riferimento ",
+                              "is_correct": "0",
+                              "selected": true
+                          },
+                          {
+                              "text": "dimensionamento dispersore",
+                              "is_correct": "1",
+                              "selected": false
+                          },
+                          {
+                              "text": "dispositivi di misura (ER fisso, sonde, posti di misura…)",
+                              "is_correct": "0",
+                              "selected": false
+                          },
+                          {
+                              "text": "criteri di verifica della protezione",
+                              "is_correct": "0",
+                              "selected": false
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "name": "Parte Scritta",
+              "passed": false,
+              "questions": 0,
+              "answered": 0,
+              "correct": 0,
+              "percent": 0,
+              "weight": 40,
+              "questionList": []
+          }
+      ]
+  }
+}
