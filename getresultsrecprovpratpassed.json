@@ -1,0 +1,134 @@
+{
+  "result": true,
+  "error": 0,
+  "exam": {
+    "passed": true,
+    "vote": 75,
+    "threshold": "75",
+    "questions_total": 4,
+    "questions_correct": 3,
+    "questions_answered": 4,
+    "time_taken": 238,
+    "time_total": 2400,
+    "sessions": 1,
+    "sections": 4,
+    "state": "completed",
+    "sessionList": [
+      {
+        "name": "Parte Pratica 1",
+        "passed": true,
+        "questions": 4,
+        "answered": 4,
+        "correct": 3,
+        "percent": 75,
+        "weight": 100,
+        "questionList": [
+          {
+            "id": "172",
+            "text": "<strong>N.B. Non tentare mai di misurare la corrente in uscita sui morsetti di potenza!</strong>\r\n\r\nConsiderando l'unità trasformatore/raddrizzatore impostata con funzionamento automatico in corrente costante:\r\n\r\nSulla base delle verifiche effettuate sul T/R, considerando anche possibili approssimazioni sulla misura, possiamo affermare che:",
+            "answers": [
+              {
+                "text": "la corrente erogata dallo strumento è pari a +1.5A in uscita dal dispersore",
+                "is_correct": "1",
+                "selected": true
+              },
+              {
+                "text": "la corrente erogata dallo strumento è pari a +1.5A in ingresso al dispersore",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "la corrente erogata dallo strumento è pari a 0A",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "la corrente erogata dallo strumento è pari a +15A in uscita dal dispersore",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "id": "164",
+            "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo portatile CSE\r\nB: elettrodo fisso CSE\r\nC: tubazione\r\n\r\nSulla base dei valori di potenziale misurati tra l'elettrodo portatile A e la tubazione C, in presenza di interferenze elettriche, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+            "answers": [
+              {
+                "text": "è necessario procedere ad una misura registrata sulle 24 ore",
+                "is_correct": "1",
+                "selected": true
+              },
+              {
+                "text": "è necessario procedere ad una misura registrata sulle 12 ore",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "il potenziale della tubazione è fortemente anodico",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "il rivestimento è fortemente degradato in corrispondenza del punto di misura",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          },
+          {
+            "id": "148",
+            "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo portatile CSE\r\nB: elettrodo fisso CSE\r\nC: tubazione\r\n\r\nSulla base dei valori di potenziale misurati tra l’elettrodo portatile A e la tubazione C, in presenza di interferenze elettriche, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+            "answers": [
+              {
+                "text": "la tubazione è in uno stato di libera corrosione",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "la tubazione è protetta catodicamente",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "il rivestimento della tubazione è degradato",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "le condizioni della tubazione non sono determinabili",
+                "is_correct": "1",
+                "selected": true
+              }
+            ]
+          },
+          {
+            "id": "192",
+            "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo di riferimento portatile CSE certificato\r\nB: elettrodo portatile CSE\r\nC: elettrodo fisso CSE\r\nD: tubazione\r\n\r\nSulla base dei valori di potenziale misurati tra l'elettrodo portatile B e tubazione D, in assenza di interferenze elettriche, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+            "answers": [
+              {
+                "text": "la tubazione è in condizione di libera corrosione",
+                "is_correct": "0",
+                "selected": false
+              },
+              {
+                "text": "la tubazione è sicuramente protetta catodicamente",
+                "is_correct": "0",
+                "selected": true
+              },
+              {
+                "text": "la tubazione è in condizione catodica",
+                "is_correct": "1",
+                "selected": false
+              },
+              {
+                "text": "la tubazione è in condizione anodica",
+                "is_correct": "0",
+                "selected": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
