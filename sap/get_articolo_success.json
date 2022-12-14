@@ -48,6 +48,21 @@
         {
             "error": false,
             "gruppo_magazzino": "PD",
+            "magazzino": "50PV",
+            "al_magazzino": 2.0,
+            "arrivo_merce": 0.0,
+            "trasf_entrata": 0.0,
+            "arrivo_merce_da_fornitore_esterno": 0.0,
+            "merce_uscita": 0.0,
+            "trasf_uscita": 0.0,
+            "merce_uscita_per_vendita_cliente": 0.0,
+            "disponibile": 2.0,
+            "ven_annocorrente": 0.0,
+            "ven_annoprecedente": 0.0
+        },
+        {
+            "error": false,
+            "gruppo_magazzino": "PD",
             "magazzino": "47PD",
             "al_magazzino": 0.0,
             "arrivo_merce": 0.0,
