@@ -11,7 +11,7 @@
             "merce_uscita": 3.0,
             "trasf_uscita": 1.0,
             "merce_uscita_per_vendita_cliente": 2.0,
-            "disponibile": 7.0,
+            "disponibile": -7.0,
             "ven_annocorrente": 0.0,
             "ven_annoprecedente": 0.0
         },
