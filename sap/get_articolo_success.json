@@ -11,7 +11,7 @@
             "merce_uscita": 3.0,
             "trasf_uscita": 1.0,
             "merce_uscita_per_vendita_cliente": 2.0,
-            "disponibile": -7.0,
+            "disponibile": 7.0,
             "ven_annocorrente": 0.0,
             "ven_annoprecedente": 0.0
         },
@@ -146,7 +146,7 @@
             "merce_uscita": 2.0,
             "trasf_uscita": 0.0,
             "merce_uscita_per_vendita_cliente": 2.0,
-            "disponibile": -4.0,
+            "disponibile": 4.0,
             "ven_annocorrente": 0.0,
             "ven_annoprecedente": 0.0
         },
@@ -184,7 +184,7 @@
             "error": false,
             "gruppo_magazzino": "T",
             "magazzino": "T712",
-            "al_magazzino": 7.0,
+            "al_magazzino": 0.0,
             "arrivo_merce": 3.0,
             "trasf_entrata": 1.0,
             "arrivo_merce_da_fornitore_esterno": 2.0,
