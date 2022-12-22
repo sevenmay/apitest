@@ -146,7 +146,7 @@
             "merce_uscita": 2.0,
             "trasf_uscita": 0.0,
             "merce_uscita_per_vendita_cliente": 2.0,
-            "disponibile": 4.0,
+            "disponibile": -4.0,
             "ven_annocorrente": 0.0,
             "ven_annoprecedente": 0.0
         },
@@ -191,7 +191,7 @@
             "merce_uscita": 4.0,
             "trasf_uscita": 1.0,
             "merce_uscita_per_vendita_cliente": 3.0,
-            "disponibile": 3.0,
+            "disponibile": -3.0,
             "ven_annocorrente": 0.0,
             "ven_annoprecedente": 0.0
         },
