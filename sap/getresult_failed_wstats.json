@@ -1,0 +1,1484 @@
+{
+    "result": true,
+    "error": 0,
+    "exam": {
+        "passed": false,
+        "vote": 26,
+        "threshold": "70",
+        "questions_total": 53,
+        "questions_correct": 7,
+        "questions_answered": 20,
+        "time_taken": 101,
+        "time_total": 9600,
+        "sessions": 3,
+        "sections": 6,
+        "state": "completed",
+        "sessionList": [
+            {
+                "name": "Parte Generale",
+                "passed": false,
+                "questions": 30,
+                "answered": 4,
+                "correct": 1,
+                "percent": 4,
+                "weight": 20,
+                "questionList": [
+                    {
+                        "id": "22",
+                        "text": "Due resistenze da 100 Ω sono inizialmente collegate in serie e alimentate da un generatore di 24 V.\r\nSuccessivamente vengono collegate in parallelo e alimentate dallo stesso generatore.\r\nLa nuova disposizione in parallelo delle due resistenze dissiperà:",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": true
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "text": "Una pila da 9 V eroga una corrente di 10 mA per 120 h.\r\nLa carica totale fornita dalla pila è di:",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "text": "Un alimentatore di protezione catodica, alimentato a 230V monofase e in grado di erogare un massimo di 40A, effettua una trasformazione della tensione e della corrente:",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "text": "Di norma l'atomo è in equilibrio elettrico perché il numero degli elettroni (cariche negative) che si muovono attorno al nucleo centrale è:",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "text": "La funzione del trasformatore è essenzialmente quella di variare:",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "text": "Sono disponibili 4 resistori aventi i seguenti valori:\r\nR1 = 5 Ω\r\nR2 = 7,5 Ω\r\nR3 = 14 Ω\r\nR4 = 3,3 Ω\r\nCollegando in serie R2, R1 e R4 si ottiene il valore:",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "text": "Un trasformatore elettrico effettua una trasformazione della tensione e della corrente:",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "80",
+                        "text": "Cosa si intende per dispositivo di protezione individuale (DPI):",
+                        "answers": [
+                            {
+                                "text": "elettrodo di riferimento / segno / valore",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "valore / unità di misura / elettrodo di riferimento",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "segno / valore / unità di misura / elettrodo di riferimento",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "segno / unità di misura / elettrodo di riferimento / valore",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "80",
+                        "text": "Una delle misure di protezione contro i contatti indiretti è il dispositivo a corrente differenziale ed il collegamento di tutte le masse allo stesso impianto di terra.\r\nNelle misurazioni periodiche di verifica, il valore della resistenza di terra deve essere:",
+                        "answers": [
+                            {
+                                "text": "elettrodo di riferimento / segno / valore",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "valore / unità di misura / elettrodo di riferimento",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "segno / valore / unità di misura / elettrodo di riferimento",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "segno / unità di misura / elettrodo di riferimento / valore",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "81",
+                        "text": "Per il personale dipendente di un'azienda, a chi spetta indicare il candidato all'organismo di certificazione, documentarne l'addestramento e la relativa esperienza:",
+                        "answers": [
+                            {
+                                "text": "tubazione sottomarina",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "serbatoio interrato",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "colonna in calcestruzzo armato",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "ponte in acciaio verniciato",
+                                "is_correct": "1",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "81",
+                        "text": "In accordo con UNI EN ISO 15257, un tecnico certificato di Livello 2 è:",
+                        "answers": [
+                            {
+                                "text": "tubazione sottomarina",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "serbatoio interrato",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "colonna in calcestruzzo armato",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "ponte in acciaio verniciato",
+                                "is_correct": "1",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "82",
+                        "text": "L'organismo di normazione UNI è:",
+                        "answers": [
+                            {
+                                "text": "una corrente continua ",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "una corrente alternata",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "un potenziale positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "una tensione alternata",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "82",
+                        "text": "Sono state pubblicate norme che stabiliscono le modalità per le misurazioni del potenziale di una struttura metallica interrata:",
+                        "answers": [
+                            {
+                                "text": "una corrente continua ",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "una corrente alternata",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "un potenziale positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "una tensione alternata",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "La velocità di corrosione di un acciaio al carbonio interrato:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "Nella corrosione per aerazione differenziale (<u><b>indicare la risposta errata</b></u>):",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "La corrosione di un materiale metallico immerso in un ambiente aerato aumenta se:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "Il processo di corrosione avviene dove la corrente elettrica:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "Il metodo soil box a due elettrodi NON consente la misura:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "Il metallo che presenta nel terreno il potenziale più nobile (più positivo) è:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "La velocità di corrosione è determinata (<u><b>indicare la risposta errata</b></u>):",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "La velocità di corrosione del ferro accoppiato con l'alluminio nel terreno:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "Considerando il potenziale di una tubazione interrata in acciaio al carbonio in assenza di protezione catodica <u><b>indicare l'affermazione ERRATA</b></u>:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "text": "La nobiltà pratica di un metallo è espressa dal suo:",
+                        "answers": [
+                            {
+                                "text": "chimica ",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "elettrochimica",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "passiva",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "puramente elettrica",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "text": "È possibile effettuare la protezione catodica di una struttura parzialmente interrata?",
+                        "answers": [
+                            {
+                                "text": "è collegata al polo negativo",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata ad entrambi i poli",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata al polo positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata direttamente al dispersore anodico",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "text": "Il materiale utilizzabile per la costruzione del dispersore di un impianto a corrente impressa, nel caso di una struttura interrata, è:",
+                        "answers": [
+                            {
+                                "text": "è collegata al polo negativo",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata ad entrambi i poli",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata al polo positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata direttamente al dispersore anodico",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "text": "Il potenziale di una tubazione in protezione catodica:",
+                        "answers": [
+                            {
+                                "text": "è collegata al polo negativo",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata ad entrambi i poli",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata al polo positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata direttamente al dispersore anodico",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "text": "In una struttura protetta catodicamente, all’interno del circuito elettrico la corrente:",
+                        "answers": [
+                            {
+                                "text": "è collegata al polo negativo",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata ad entrambi i poli",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata al polo positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata direttamente al dispersore anodico",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "text": "Quale di questi materiali è adatto per essere utilizzato come anodo galvanico per proteggere una struttura in acciaio al carbonio interrata?",
+                        "answers": [
+                            {
+                                "text": "è collegata al polo negativo",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata ad entrambi i poli",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata al polo positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata direttamente al dispersore anodico",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "text": "Nella scelta del sistema di protezione catodica bisogna tenere presente che:",
+                        "answers": [
+                            {
+                                "text": "è collegata al polo negativo",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata ad entrambi i poli",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata al polo positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata direttamente al dispersore anodico",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "text": "Il potenziale di una struttura protetta catodicamente con anodi galvanici:",
+                        "answers": [
+                            {
+                                "text": "è collegata al polo negativo",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata ad entrambi i poli",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata al polo positivo",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "è collegata direttamente al dispersore anodico",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    }
+                ],
+                "stats": {
+                    "Generale - Elettrotecnica": {
+                        "total": 7,
+                        "given": 4,
+                        "correct": 1
+                    },
+                    "Generale - Sicurezza": {
+                        "total": 2,
+                        "given": 0,
+                        "correct": 0
+                    },
+                    "Generale - Certificazione": {
+                        "total": 2,
+                        "given": 0,
+                        "correct": 0
+                    },
+                    "Generale - Normativa": {
+                        "total": 2,
+                        "given": 0,
+                        "correct": 0
+                    },
+                    "Generale - Corrosione": {
+                        "total": 10,
+                        "given": 0,
+                        "correct": 0
+                    },
+                    "Generale -  PC": {
+                        "total": 7,
+                        "given": 0,
+                        "correct": 0
+                    }
+                }
+            },
+            {
+                "name": "Parte Specifica",
+                "passed": false,
+                "questions": 20,
+                "answered": 13,
+                "correct": 5,
+                "percent": 25,
+                "weight": 30,
+                "questionList": [
+                    {
+                        "id": "114",
+                        "text": "La potenza del generatore da installare all'atto della creazione di un impianto a corrente impressa è minore, quando:",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "114",
+                        "text": "In corrispondenza di impianti di protezione catodica e di posti di misura, qual è la corretta distanza, rispetto la struttura da proteggere, per collocare l'elettrodo di riferimento di tipo fisso:",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "114",
+                        "text": "Il tubo di sfiato serve per:",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "114",
+                        "text": "Quale dei seguenti elementi NON è parte attiva di un impianto di protezione catodica?",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "114",
+                        "text": "In un sistema di protezione catodica, l'impianto di drenaggio unidirezionale consente:",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "114",
+                        "text": "La polvere di coke utilizzata come letto di posa nella costruzione dei dispersori",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "114",
+                        "text": "La corrente erogata da un anodo galvanico per proteggere una struttura dipende (<b>segnare la risposta errata</b>):",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "114",
+                        "text": "La durata di vita di un anodo galvanico è funzione:",
+                        "answers": [
+                            {
+                                "text": "+0,85 V CSE",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "-0,95 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-850 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dall'eventuale presenza di un rivestimento inseriti",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "115",
+                        "text": "La tecnica ON-OFF si applica per:",
+                        "answers": [
+                            {
+                                "text": "sicuramente sì",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "sicuramente no",
+                                "is_correct": "1",
+                                "selected": true
+                            },
+                            {
+                                "text": "dipende dalle cadute ohmiche",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dalla presenza o meno di un rivestimento",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "115",
+                        "text": "Per eseguire le misure di potenziale su una struttura interrata, qual è la corretta posizione del punto dove collocare l'elettrodo di riferimento CSE di tipo portatile:",
+                        "answers": [
+                            {
+                                "text": "sicuramente sì",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "sicuramente no",
+                                "is_correct": "1",
+                                "selected": true
+                            },
+                            {
+                                "text": "dipende dalle cadute ohmiche",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dalla presenza o meno di un rivestimento",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "115",
+                        "text": "Su una struttura estesa in lunghezza rivestita in polietilene e protetta catodicamente sono state installate delle sonde di potenziale con elettrodo di riferimento CSE saturo e piastrine in acciaio al carbonio.\r\nPer eseguire la misura registrata del potenziale ON e potenziale OFF delle piastrine dove deve essere collocato l'elettrodo di riferimento al CSE portatile:",
+                        "answers": [
+                            {
+                                "text": "sicuramente sì",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "sicuramente no",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dalle cadute ohmiche",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "dipende dalla presenza o meno di un rivestimento",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "115",
+                        "text": "La tensione in uscita da un alimentatore si misura:",
+                        "answers": [
+                            {
+                                "text": "sicuramente sì",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "sicuramente no",
+                                "is_correct": "1",
+                                "selected": true
+                            },
+                            {
+                                "text": "dipende dalle cadute ohmiche",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "dipende dalla presenza o meno di un rivestimento",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "116",
+                        "text": "In presenza di correnti disperse da sorgenti a corrente continua, il criterio di protezione catodica dell'acciaio posato in terreni aerati e in condizioni normali è:",
+                        "answers": [
+                            {
+                                "text": "-550 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "-550 CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-550 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "+550 mv SCE",
+                                "is_correct": "0",
+                                "selected": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "116",
+                        "text": "Ponendo l'elettrodo di riferimento CSE sulla verticale di una rete di distribuzione protetta catodicamente ed interferita da corrente dispersa non stazionaria, il valore della misura registrata di potenziale ON è comprensivo della caduta ohmica causata:",
+                        "answers": [
+                            {
+                                "text": "-550 mV CSE",
+                                "is_correct": "1",
+                                "selected": true
+                            },
+                            {
+                                "text": "-550 CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-550 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "+550 mv SCE",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "116",
+                        "text": "Gli elettrodi riferimento delle sonde di potenziale interrate devono essere:",
+                        "answers": [
+                            {
+                                "text": "-550 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "-550 CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "-550 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "+550 mv SCE",
+                                "is_correct": "0",
+                                "selected": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "116",
+                        "text": "La misura di potenziale ad impianti inseriti (Eon) e ad impianti disinseriti (Eoff) su strutture metalliche interrate, permette di ottenere una misura depurata della caduta di tensione nel terreno.\r\nDopo quanto tempo dall'interruzione della corrente di protezione deve essere rilevato il valore di potenziale?",
+                        "answers": [
+                            {
+                                "text": "-550 mV CSE",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "-550 CSE",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "-550 V CSE",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "+550 mv SCE",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "117",
+                        "text": "Quale di queste fasi relative all'applicazione del rivestimento deve essere effettuata obbligatoriamente in stabilimento?",
+                        "answers": [
+                            {
+                                "text": "Solo sulla misura del potenziale ON",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "Solo sulla misura del potenziale E<sub>IR-free</sub>",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "Sulla misura di potenziale ON e potenziale E<sub>IR-free</sub>",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "Sulla misura della densità di corrente",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "117",
+                        "text": "In corrispondenza delle saldature di condotte interrate, la continuità del rivestimento si assicura mettendo in opera fasce termo-restringenti.\r\nIl restringimento della fascia si ottiene riscaldandola:",
+                        "answers": [
+                            {
+                                "text": "Solo sulla misura del potenziale ON",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "Solo sulla misura del potenziale E<sub>IR-free</sub>",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "Sulla misura di potenziale ON e potenziale E<sub>IR-free</sub>",
+                                "is_correct": "1",
+                                "selected": true
+                            },
+                            {
+                                "text": "Sulla misura della densità di corrente",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "117",
+                        "text": "La scheda di sicurezza di un prodotto da utilizzare per applicare un rivestimento fornisce:",
+                        "answers": [
+                            {
+                                "text": "Solo sulla misura del potenziale ON",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "Solo sulla misura del potenziale E<sub>IR-free</sub>",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "Sulla misura di potenziale ON e potenziale E<sub>IR-free</sub>",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "Sulla misura della densità di corrente",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "117",
+                        "text": "Tra i differenti rivestimenti per condotte qual è quello che NON ha adeguate caratteristiche in un ampio campo di sollecitazioni?",
+                        "answers": [
+                            {
+                                "text": "Solo sulla misura del potenziale ON",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "Solo sulla misura del potenziale E<sub>IR-free</sub>",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "Sulla misura di potenziale ON e potenziale E<sub>IR-free</sub>",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "Sulla misura della densità di corrente",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    }
+                ],
+                "stats": {
+                    "Specifica - Sistemi PC": {
+                        "total": 8,
+                        "given": 1,
+                        "correct": 0
+                    },
+                    "Specifica - Tecniche di Misura": {
+                        "total": 4,
+                        "given": 4,
+                        "correct": 3
+                    },
+                    "Specifica - Misure di Campo": {
+                        "total": 4,
+                        "given": 4,
+                        "correct": 1
+                    },
+                    "Specifica - Rivestimenti": {
+                        "total": 4,
+                        "given": 4,
+                        "correct": 1
+                    }
+                }
+            },
+            {
+                "name": "Parte Pratica",
+                "passed": false,
+                "questions": 3,
+                "answered": 3,
+                "correct": 1,
+                "percent": 34,
+                "weight": 50,
+                "questionList": [
+                    {
+                        "id": "104",
+                        "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo portatile CSE\r\nB: elettrodo fisso CSE\r\nC: tubazione\r\n\r\nSulla base dei valori di potenziale misurati tra l'elettrodo portatile A e la tubazione C, in presenza di possibili interferenze elettriche, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+                        "answers": [
+                            {
+                                "text": "no",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "sì",
+                                "is_correct": "1",
+                                "selected": true
+                            },
+                            {
+                                "text": "solo se hanno una sezione grande",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "solo se superano una lunghezza critica di 10 cm",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "text": "Su una autovettura la cui batteria è da 12 V 80 Ah vengono dimenticate accese le luci di cortesia, consistenti in 3 lampade da 8 W ciascuna.\r\nIn quanto tempo si scaricherà la batteria, supponendo che all'inizio sia completamente carica? ",
+                        "answers": [
+                            {
+                                "text": "1,0 A ",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "0,5 mA",
+                                "is_correct": "1",
+                                "selected": false
+                            },
+                            {
+                                "text": "300 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "30 mA",
+                                "is_correct": "0",
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "100",
+                        "text": "Considerando la morsettiera del posto di misura associata ai seguenti collegamenti:\r\nA: elettrodo di riferimento portatile CSE certificato\r\nB: elettrodo portatile CSE\r\nC: elettrodo fisso CSE\r\nD: tubazione\r\n\r\nSulla base dei valori di potenziale misurati tra l'elettrodo fisso C e l’elettrodo portatile B, in presenza di interferenze elettriche, considerando anche possibili approssimazioni sulla misura, possiamo considerare che:",
+                        "answers": [
+                            {
+                                "text": "un elettrodo di riferimento ispezionabile",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "una sonda che misura le cadute ohmiche nel terreno",
+                                "is_correct": "0",
+                                "selected": true
+                            },
+                            {
+                                "text": "un elettrodo di riferimento portatile attrezzato con una piastrina",
+                                "is_correct": "0",
+                                "selected": false
+                            },
+                            {
+                                "text": "un elettrodo di riferimento fisso attrezzato con una piastrina",
+                                "is_correct": "1",
+                                "selected": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
