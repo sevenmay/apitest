@@ -804,38 +804,50 @@
                         ]
                     }
                 ],
-                "stats": {
-                    "Generale - Elettrotecnica": {
+                "stats": [
+                    {
                         "total": 7,
                         "given": 4,
-                        "correct": 1
+                        "correct": 1,
+                        "title": "Generale - Elettrotecnica",
+                        "percent": 14.289999999999999
                     },
-                    "Generale - Sicurezza": {
+                    {
                         "total": 2,
                         "given": 0,
-                        "correct": 0
+                        "correct": 0,
+                        "title": "Generale - Sicurezza",
+                        "percent": 0
                     },
-                    "Generale - Certificazione": {
+                    {
                         "total": 2,
                         "given": 0,
-                        "correct": 0
+                        "correct": 0,
+                        "title": "Generale - Certificazione",
+                        "percent": 0
                     },
-                    "Generale - Normativa": {
+                    {
                         "total": 2,
                         "given": 0,
-                        "correct": 0
+                        "correct": 0,
+                        "title": "Generale - Normativa",
+                        "percent": 0
                     },
-                    "Generale - Corrosione": {
+                    {
                         "total": 10,
                         "given": 0,
-                        "correct": 0
+                        "correct": 0,
+                        "title": "Generale - Corrosione",
+                        "percent": 0
                     },
-                    "Generale -  PC": {
+                    {
                         "total": 7,
                         "given": 0,
-                        "correct": 0
+                        "correct": 0,
+                        "title": "Generale -  PC",
+                        "percent": 0
                     }
-                }
+                ]
             },
             {
                 "name": "Parte Specifica",
@@ -1367,28 +1379,36 @@
                         ]
                     }
                 ],
-                "stats": {
-                    "Specifica - Sistemi PC": {
+                "stats": [
+                    {
                         "total": 8,
                         "given": 1,
-                        "correct": 0
+                        "correct": 0,
+                        "title": "Specifica - Sistemi PC",
+                        "percent": 0
                     },
-                    "Specifica - Tecniche di Misura": {
+                    {
                         "total": 4,
                         "given": 4,
-                        "correct": 3
+                        "correct": 3,
+                        "title": "Specifica - Tecniche di Misura",
+                        "percent": 75
                     },
-                    "Specifica - Misure di Campo": {
+                    {
                         "total": 4,
                         "given": 4,
-                        "correct": 1
+                        "correct": 1,
+                        "title": "Specifica - Misure di Campo",
+                        "percent": 25
                     },
-                    "Specifica - Rivestimenti": {
+                    {
                         "total": 4,
                         "given": 4,
-                        "correct": 1
+                        "correct": 1,
+                        "title": "Specifica - Rivestimenti",
+                        "percent": 25
                     }
-                }
+                ]
             },
             {
                 "name": "Parte Pratica",
